@@ -15,7 +15,7 @@ $RECYCLE.BIN/
 *.msp
 
 # User specific
-.userprefs
+*.userprefs
 
 # Windows shortcuts
 *.lnk
